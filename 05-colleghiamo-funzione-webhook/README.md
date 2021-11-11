@@ -55,7 +55,8 @@ vercel --prod
 
 #### 3. Invoca la funzione su internet
 
-- Per chiamare la funzione apri il tuo browser e vai all'url `https://{URL_DI_VERCEL}/api/bot` 
+- Per chiamare la funzione apri il tuo browser e vai all'url `https://{URL_DI_VERCEL}/api/bot`
+> Questa operazione va fatta una sola volta, dovrà essere rifatta solo nel caso di cambio l'url.
 
 #### 4. Verifica registrazione
 
