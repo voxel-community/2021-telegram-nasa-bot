@@ -1,8 +1,8 @@
-# 002-crea-comando-python
+# 01-crea-prima-istruzione-python
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 00-installazione](../00-installazione)  | [03-crea-bot ▶︎](../03-crea-bot) |
 
 ## Obiettivo
 

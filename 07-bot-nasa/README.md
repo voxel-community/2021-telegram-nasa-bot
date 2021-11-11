@@ -48,8 +48,6 @@ class handler(BaseHTTPRequestHandler):
     self.end_headers()
     self.wfile.write(str('ok').encode())
     return
-
-
 ```
 
 - Sostituisci `TOKEN_TELEGRAM_BOT` con il codice ricevuto prima dal Botfather
