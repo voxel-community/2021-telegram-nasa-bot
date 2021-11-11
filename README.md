@@ -16,7 +16,6 @@ Python è un linguaggio di programmazione che è stato pensato per essere usato 
 
 Oggi, con Python metteremo in comunicazione il bot di Telegram con i dati che ci fornisce la NASA.
 
-
 📹 [Ecco un breve video introduttivo](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
 
 ### API
@@ -38,19 +37,13 @@ Il workshop è strutturato in X capitoli, all'interno di ognuno troverai una bre
 ## Indice dei capitoli
 
 00. [Installazione](00-installazione)
-1. [Preparare il progetto](01-crea-bot)
-
---- 
-
-## Potenziare il tuo sito 🚀
-
-Una volta che avrai creato il tuo bot potrai potenziarlo e personalizzarlo ancora di più.
-
-👉 Puoi cliccare qui per scoprire come fare: [Potenzia il tuo bot](potenzia-il-tuo-bot)
-
-### Indice
-
-- 
+1. [Crea la tua prima istruzione in Python](01-crea-prima-istruzione-python)
+1. [Crea la tua prima funzione in Python](02-crea-prima-funzione)
+1. [Crea il bot](03-crea-bot)
+1. [Collega la funzione a Telegram](04-colleghiamo-funzione-a-telegram)
+1. [Collega la funzione al bot](05-registrazione-webhook)
+1. [Bot](06-bot-asteroide)
+1. [Bot con API Nasa](07-bot-nasa)
 
 ---
 

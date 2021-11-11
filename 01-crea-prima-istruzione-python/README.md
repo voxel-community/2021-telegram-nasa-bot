@@ -22,12 +22,14 @@ Struttura
 
 #### 2. Apri la cartella con VS Code
 - Apri **Visual Studio Code** e apri la cartella con `File > Apri cartella…`
-- Installa l'estensione suggerita dall'editor per farlgi riconoscere i file in Python
 
-#### 3. Scrivi il comando
+#### 3. Installa estesione Python per VS Code
+- Installa l'estensione suggerita dall'editor per farlgi riconoscere i file in Python. Se non te la suggerisce seleziona dal pannello laterale `Estensioni`, cerca `Python` e installalo
+
+#### 4. Scrivi il comando
 - All'interno del file `bot.py` scrivi il seguente codice `print("ciao")`
 
-#### 4. Esegui il comando
+#### 5. Esegui il comando
 - Esegui il comando cliccando "play" in alto a destra
 - Si aprirà un terminale con la scritta "ciao"
 - Hai creato il tuo primo comando in Python!

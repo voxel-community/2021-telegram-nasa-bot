@@ -27,7 +27,7 @@ Poi faremo uso di:
 2. Clicca su `File`
 3. Spunta l’opzione **salvataggio automatico**
 
-#### 3. Se hai Windows, installa Python
+#### 3. Se hai Windows, installa Python (se hai Mac è già installato)
 
 * Qui trovi il [link: https://www.python.org/downloads/](https://www.python.org/downloads/)
 
