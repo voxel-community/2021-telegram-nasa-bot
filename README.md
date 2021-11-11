@@ -18,6 +18,8 @@ Python è un linguaggio di programmazione che è stato pensato per essere usato 
 
 Oggi, con Python metteremo in comunicazione il bot di Telegram con i dati che ci fornisce la NASA.
 
+A multi-purpose language with a simple, and beginner-friendly syntax
+
 📹 [Ecco un breve video introduttivo](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
 
 ### API
@@ -85,3 +87,6 @@ Se vuoi rimanere aggiornata sui nostri prossimi eventi, qui trovi i nostri conta
 
 📧 Email: [hello@voxel.community](mailto:hello@voxel.community)
 
+- https://tutorial.djangogirls.org/en/python_introduction/
+- https://vercel.com/docs/concepts/functions/supported-languages#python
+- https://www.marclittlemore.com/serverless-telegram-chatbot-vercel/
