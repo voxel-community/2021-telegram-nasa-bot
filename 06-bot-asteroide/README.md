@@ -1,8 +1,8 @@
 # 06-bot-asteroide
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 05-registrazione-webhook](../05-registrazione-webhook)  | [07-bot-nasa ▶︎](../07-bot-nasa) |
 
 ## Obiettivo
 

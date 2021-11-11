@@ -1,8 +1,8 @@
 # 00-installazione
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-crea-bot ▶︎]() |
+|                                                                               | Capitolo successivo                                                                      |
+| :---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------: |
+| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-crea-prima-istruzione-python ▶︎](../01-crea-prima-istruzione-python) |
 
 ## Obiettivo
 Prendere confidenza con gli strumenti del mestiere.
