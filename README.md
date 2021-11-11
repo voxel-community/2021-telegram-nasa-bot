@@ -90,3 +90,49 @@ Se vuoi rimanere aggiornata sui nostri prossimi eventi, qui trovi i nostri conta
 - https://tutorial.djangogirls.org/en/python_introduction/
 - https://vercel.com/docs/concepts/functions/supported-languages#python
 - https://www.marclittlemore.com/serverless-telegram-chatbot-vercel/
+- https://core.telegram.org/bots/api#setwebhook
+- https://xabaras.medium.com/setting-your-telegram-bot-webhook-the-easy-way-c7577b2d6f72
+
+- https://api.telegram.org/botYOUR_TOKEN/getWebhookInfo
+
+Webhooks are basically user defined HTTP callbacks (or small code snippets linked to a web application) which are triggered by specific events. Whenever that trigger event occurs in the source site, the webhook sees the event, collects the data, and sends it to the URL specified by you in the form of an HTTP request. You can even configure an event in one site to trigger an action in another site.
+
+- https://snipcart.com/blog/what-are-webhooks-explained-example
+
+Put bluntly: webhooks are a way for apps to communicate between them automatically.
+
+MailChimp uses a webhook to signup users from your website to your newsletter.
+
+Paypal uses it to tell your accounting app when your clients pay you.
+
+Shopify offers webhooks to keep parts of your commerce system up-to-date, so you don’t have to enter new transaction details manually.
+
+You can register a webhook by registering the URL to notify once given events occur. This first step is usually done via either a UI or by API.
+
+HTTP web APIs
+Endpoints
+APIs provide you with an endpoint or a specific URL where the data or functions you want are exposed
+
+https://www.culttt.com/2014/01/22/webhooks
+### An API will request data
+
+An API is an excellent way to communicate data between separate applications.
+An API is basically a way to ask a question to another separate application. For example, if I was developing an application and I wanted my users to be able to find the people they follow on Twitter, I could ask the Twitter API, “Give me a list of all of the people this user follows on Twitter”.
+
+An API is a common interface between two different applications. In the example above, it doesn’t make a difference if I write my application in Ruby and Twitter is written in Java because the API transmits and receives data in a common format (usually JSON or XML).
+This allows two totally separate applications to send and receive data.
+
+### A Webhook will receive data
+So if an API is used to ask a question or make a direction request, what is a Webhook? A Webhook is basically a way to be notified when an event has occurred, usually not due to a direct action from your application.
+
+For example, say I had created an application for my restaurant that used the Foursquare API to track when people checked in. When a user checks in with Foursquare I want to be able to greet them by name and offer them a complimentary drink.
+
+If I was using an API I would have to be constantly asking “Is anyone here yet?” because if I didn’t ask the question I would never find out. This is very inefficient because my application would have to ask every couple of seconds and for the majority of the time the answer would probably be no.
+
+A Webhook on the other hand would instead notify me when someone had checked in to my restaurant by sending me a request saying “Hey, Bob has just checked in”. This would allow me to run any processes I had in my application for such an event.
+
+So an API is used to ask direct questions and a Webhook is used to be notified when certain events take place. Instead of constantly asking if anything has been changed, you can sit back and be notified when something actually has changed.
+
+### Technically, what is a Webhook?
+
+A Webhook is basically just a POST request that is sent to a specific URL. That URL is set up to receive the body of the POST request and process it in some way.

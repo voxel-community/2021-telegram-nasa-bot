@@ -1,4 +1,4 @@
-# 02-crea-prima-funzione-python
+# 002-crea-comando-python
 
 |    | Capitolo successivo | 
 |:-- | ------------------: |
@@ -6,7 +6,7 @@
 
 ## Obiettivo
 
-Creare la tua prima funzione in Python. Possiamo scrivere una semplice funzione che stampi la parola "ciao".
+Crea il tuo primo comando in Python. Possiamo scrivere una semplice comando che stampi la parola "ciao".
 
 ## Steps
 
@@ -18,18 +18,16 @@ Creare la tua prima funzione in Python. Possiamo scrivere una semplice funzione 
 
 Struttura
  - bot-telegram
-    |
     - api
-       | 
        - bot.py
 
-#### 2. Scrivi la funzione
+#### 2. Scrivi il comando
 - All'interno del file `bot.py` scrivi il seguente codice `print("ciao")`
 
-#### 3. Esegui la funzione
-- Esegui la funzione, clicca play in alto a destra
+#### 3. Esegui il comando
+- Esegui il comando cliccando "play" in alto a destra
 - Si aprirà un terminale con la scritta "ciao"
-- Hai creato la tua prima funzione in Python!
+- Hai creato il tuo primo comando in Python!
 
 <kbd>![0-fatherbot-1](../assets/Lessons/1-py-print.png)</kbd>
 
