@@ -6,11 +6,13 @@
 
 ## Obiettivo
 
-In questo capitolo vogliamo fare in modo che qualsiasi cosa scriva un utente scriva al bot, il bot risponda con "asteroide"
+In questo capitolo vogliamo fare in modo che qualsiasi cosa scriva un utente, il bot risponda con "asteroide".
 
 ## Steps
 
-#### 1. Funzione Post chiama API NASA
+#### 1. Funzione Post risponde con asteroide
+
+Sei libera di rispondere con qualsiasi cosa, non deve essere necessariamente "asteroide", basta modificare il testo dentro `text="asteroide"`.
 
 - Inserisci il seguente codice
 ``` py
