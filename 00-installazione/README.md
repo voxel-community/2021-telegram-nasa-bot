@@ -2,7 +2,7 @@
 
 |    | Capitolo successivo | 
 |:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎]() |
+| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-crea-bot ▶︎]() |
 
 ## Obiettivo
 Prendere confidenza con gli strumenti del mestiere.
@@ -52,4 +52,4 @@ Poi faremo uso di:
 
 |    | Capitolo successivo | 
 |:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎]() |
+| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-crea-bot ▶︎]() |

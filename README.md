@@ -41,7 +41,7 @@ Il workshop è strutturato in X capitoli, all'interno di ognuno troverai una bre
 ## Indice dei capitoli
 
 00. [Installazione](00-installazione)
-1. [Preparare il progetto](01-comincia-a-preparare-il-tuo-progetto)
+1. [Preparare il progetto](01-crea-bot)
 
 --- 
 
