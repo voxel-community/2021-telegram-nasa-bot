@@ -6,8 +6,8 @@ import urllib.request
 class handler(BaseHTTPRequestHandler):
 
   def do_GET(self):
-    token='2098310578:AAGI_PIk5k-BJ0IIGeGhFzJSj98psBwURLI'
-    url = 'https://telegram-bot-opal.vercel.app/api/bot/'
+    token='TOKEN_TELEGRAM_BOT'
+    url = 'https://VERCEL_URL/api/bot/'
     bot = Bot(token=token)
     res = bot.setWebhook(url)
     self.send_response(200)
@@ -20,7 +20,7 @@ class handler(BaseHTTPRequestHandler):
     content_length = int(self.headers["Content-Length"])
     post_data = self.rfile.read(content_length).decode('utf-8')
     data = json.loads(post_data)
-    token='2098310578:AAGI_PIk5k-BJ0IIGeGhFzJSj98psBwURLI'
+    token='TOKEN_TELEGRAM_BOT'
     bot = Bot(token=token)
     contents = json.loads(urllib.request.urlopen('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY').read())
     chat_id = data['message']['chat']['id']

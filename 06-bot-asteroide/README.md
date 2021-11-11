@@ -21,7 +21,7 @@ class handler(BaseHTTPRequestHandler):
 
   def do_GET(self):
     token='TOKEN_TELEGRAM_BOT'
-    url = 'https://telegram-bot-opal.vercel.app/api/bot/'
+    url = 'https://VERCEL_URL/api/bot/'
     bot = Bot(token=token)
     res = bot.setWebhook(url)
     self.send_response(200)
@@ -44,6 +44,7 @@ class handler(BaseHTTPRequestHandler):
 ```
 
 - Sostituisci `TOKEN_TELEGRAM_BOT` con il codice ricevuto prima dal Botfather
+- Sostituisci `VERCEL_URL` con l'url che ti ha dato Vercel
 
 <kbd>![15-bot-asteroide.png](../assets/Lessons/15-bot-asteroide.png)</kbd>
 
