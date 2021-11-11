@@ -35,6 +35,7 @@ class handler(BaseHTTPRequestHandler):
   def do_POST(self):
     token='TOKEN_TELEGRAM_BOT'
     bot = Bot(token=token)
+    chat_id = data['message']['chat']['id']
     bot.sendMessage(chat_id=chat_id, text="asteroide")
     self.send_response(200)
     self.send_header('Content-type', 'text/plain')
