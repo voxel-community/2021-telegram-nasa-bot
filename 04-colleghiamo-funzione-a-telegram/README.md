@@ -20,8 +20,7 @@ from telegram import Bot
 class handler(BaseHTTPRequestHandler):
 
   def do_GET(self):
-    token='TOKEN_TELEGRAM_BOT'
-    bot = Bot(token=token)
+    bot = Bot(token='TOKEN_TELEGRAM_BOT')
     res = bot.setWebhook(url)
     self.send_response(200)
     self.send_header('Content-type', 'text/plain')
