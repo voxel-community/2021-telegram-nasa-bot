@@ -39,7 +39,7 @@ Per provare la tua funzione senza metterla online puoi testarla simulando un ser
 ```
 vercel login
 ```
-- Avvia server locale (sul tuo computer e non su internet) Vercel ha un comando 
+- Avvia un server locale (sul tuo computer e non su internet) con questo comando 
 
 ```
 vercel dev
@@ -66,7 +66,9 @@ vercel --prod
 
 #### 3. Invoca la funzione su internet
 
-- Per chiamare la funzione apri il tuo browser e vai all'url `http://{URL_DI_VERCEL}/api/bot` (`bot` corrisponde al nome dei file)
+- Per chiamare la funzione apri il tuo browser e vai all'url `https://{URL_DI_VERCEL}/api/bot` 
+
+> `bot` corrisponde al nome dei file
 
 <kbd>![0-fatherbot-1](../assets/Lessons/6-prod-browser.png)</kbd>
 
