@@ -62,9 +62,6 @@ vercel --prod
 
 Puoi verificare che la registrazione ha avuto successo andando al seguente link: https://api.telegram.org/{TOKEN_TELEGRAM_BOT}/getWebhookInfo
 
-
-<kbd>![0-fatherbot-1](../assets/Lessons/10-browser-prod-bot-me.png)</kbd>
-
 |    | Capitolo successivo | 
 |:-- | ------------------: |
 | [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
