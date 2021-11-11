@@ -12,8 +12,6 @@ Sei arrivata al capitolo finale, finalmente collegheremo la nostra funzione alle
 
 #### 1. Funzione Post chiama API Nasa
 
-Scriviamo un altra funzione, questa volta sarà una richiesta POST dove il bot risponse sempre con "asteroide"
-
 - Inserisci il seguente codice
 ``` py
 from http.server import BaseHTTPRequestHandler
