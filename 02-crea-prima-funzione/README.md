@@ -50,9 +50,11 @@ Hai appena avviato un piccolo server sul tuo pc al seguente link `http://localho
 <kbd>![0-fatherbot-1](../assets/Lessons/3-dev-vercel-command.png)</kbd>
 
 #### 3. Invoca la funzione dal tuo computer
-> Vercel sa automaticamente che i file all'interno della `api` sono delle funzioni serverless. 
+> Vercel sa automaticamente che i file all'interno della cartella `api` sono delle funzioni serverless. 
 
-- Per chiamare la funzione apri il tuo browser e vai all'url `http://localhost:3000/api/bot` (`bot` corrisponde al nome dei file)
+- Per chiamare la funzione apri il tuo browser e vai all'url `http://localhost:3000/api/bot` 
+
+>`bot` corrisponde al nome dei file
 
 <kbd>![0-fatherbot-1](../assets/Lessons/4-dev-browser-hello.png)</kbd>
 
