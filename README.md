@@ -4,8 +4,6 @@
 
 Imparare le basi di Python per creare un bot di Telegram che acceda ai dati sulle stelle della NASA 😊
 
-Questo è un esempio di quello che potrete realizzare: [guarda qui]() 😉
-
 ---
 
 ## Com'è fatto un bot di Telegram?
