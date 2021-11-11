@@ -6,7 +6,7 @@
 
 ## Obiettivo
 
-Ora il gioco si scalda, finora abbiamo creato una funzione che va a comunicare direttamente con le API di Telegram. Ma come facciamo a far comunicare il bot con la nostra funzione? Un modo è quello di mandare continue richieste alle API di Telegram per vedere se qualche utente ha interagito con il bot oppure puoi registrare un WebHook per essere automaticamente avvisato una volta che le richieste siano disponibili. Quest'ultima è la soluzione migliore e più efficiente.
+Ora il gioco si scalda, finora abbiamo creato una funzione che va a comunicare direttamente con le API di Telegram. Ma come facciamo a far comunicare il bot con la nostra funzione? Un modo è quello di mandare continue richieste alle API di Telegram per vedere se qualche utente ha interagito con il bot oppure puoi registrare un WebHook per essere automaticamente avvisata una volta che le richieste siano disponibili. Quest'ultima è la soluzione migliore e più efficiente.
 
 Cos'è un webhook?
 
