@@ -18,6 +18,8 @@ Sei libera di rispondere con qualsiasi cosa, non deve essere necessariamente "as
 ``` py
 from http.server import BaseHTTPRequestHandler
 from telegram import Bot
+import json
+import urllib.request
 
 class handler(BaseHTTPRequestHandler):
 
@@ -33,8 +35,11 @@ class handler(BaseHTTPRequestHandler):
     return
 
   def do_POST(self):
-    token='TOKEN_TELEGRAM_BOT'
+    content_length = int(self.headers["Content-Length"])
+    post_data = self.rfile.read(content_length).decode('utf-8')
+    data = json.loads(post_data)
     bot = Bot(token=token)
+    token='TOKEN_TELEGRAM_BOT'
     chat_id = data['message']['chat']['id']
     bot.sendMessage(chat_id=chat_id, text="asteroide")
     self.send_response(200)
@@ -42,8 +47,6 @@ class handler(BaseHTTPRequestHandler):
     self.end_headers()
     self.wfile.write(str('ok').encode())
     return
-
-
 ```
 
 - Sostituisci `TOKEN_TELEGRAM_BOT` con il codice ricevuto prima dal Botfather
