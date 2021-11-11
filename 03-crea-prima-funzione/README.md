@@ -1,4 +1,4 @@
-# 03-crea-prima-api
+# 03-crea-prima-funzione
 
 |    | Capitolo successivo | 
 |:-- | ------------------: |
@@ -8,7 +8,7 @@
 
 Crea una semplice funzione che risponde "hello".
 
-In questo capitolo lavoreremo con Vercel, una piattaforma che ti permette di pubblicare siti web e funzioni serverless. Le funzioni serverless, che sono pezzi di codice scritte con linguaggi di backend che accettano una richiesta HTTP (richiesta web) e forniscono una risposta.
+In questo capitolo lavoreremo con [Vercel](https://vercel.com/), una piattaforma che ti permette di pubblicare siti web e funzioni serverless. Le [funzioni serverless](https://vercel.com/docs/concepts/functions/supported-languages#python), che sono pezzi di codice scritte con linguaggi di backend che accettano una richiesta HTTP (richiesta web) e forniscono una risposta.
 
 Con serverless si intende un modello di servizio cloud dove il provider, in questo caso Vercel, alloca le risorse appena queste vengono richieste. Quando un app non è in uso, nessuna risorsa viene consumata. Il termine serverless è fuorviante perché sono comunque utilizzati dei server in cloud, ma questi vengono astratti ai programmatori, che non devono più occuparsene.
 
@@ -34,12 +34,12 @@ class handler(BaseHTTPRequestHandler):
 
 #### 2. Simula un server
 
-- Per provare la tua funzione senza metterla online puoi testarla simulando un server sul tuo pc
+Per provare la tua funzione senza metterla online puoi testarla simulando un server sul tuo pc
 - Apri il terminale e fai login su Vercel con questo comando 
 ```
 vercel login
 ```
-- Per provare la tua funzione in locale (sul tuo computer e non su internet) Vercel ha un comando 
+- Avvia server locale (sul tuo computer e non su internet) Vercel ha un comando 
 
 ```
 vercel dev
