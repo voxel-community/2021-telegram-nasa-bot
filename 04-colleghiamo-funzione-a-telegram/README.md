@@ -32,7 +32,7 @@ class handler(BaseHTTPRequestHandler):
 
 <kbd>![0-fatherbot-1](../assets/Lessons/8-botme.png)</kbd>
 
-#### 2. Crea un file per riuscire ad utilizzare le API di Telegram
+#### 2. Crea un file per riuscire ad utilizzare il pacchetto Telegram
 
 - Dentro la cartella del progetto, `telegram-bot` crea un file con nome `requirements.txt`
 
