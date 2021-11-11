@@ -1,9 +1,8 @@
 # 04-colleghiamo-funzione-a-telegram
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
-
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 02-crea-prima-funzione](../02-crea-prima-funzione)  | [04-colleghiamo-funzione-a-telegram ▶︎](../04-colleghiamo-funzione-a-telegram) |
 ## Obiettivo
 
 Collega la tua funzione alle API di Telegram. Faremo un piccolo test andando a chiedere a Telegram le informazioni sul bot.

@@ -1,8 +1,8 @@
 # 03-crea-bot
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 02-crea-prima-funzione](../02-crea-prima-funzione)  | [04-colleghiamo-funzione-a-telegram ▶︎](../04-colleghiamo-funzione-a-telegram) |
 
 ## Obiettivo
 
