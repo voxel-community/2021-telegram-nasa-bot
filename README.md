@@ -67,6 +67,13 @@ Una volta che avrai creato il tuo bot potrai potenziarlo e personalizzarlo ancor
 - Python può essere anche usato per automazioni e processi automatici e lo imparare vedere con il corso [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 - Una lista di API di ogni tipo per arricchire i tuoi bot e altri tuoi progetti su [API List](https://apilist.fun/)
 
+#### Fonti utilizzate
+- https://tutorial.djangogirls.org/en/python_introduction/
+- https://vercel.com/docs/concepts/functions/supported-languages#python
+- https://www.marclittlemore.com/serverless-telegram-chatbot-vercel/
+- https://core.telegram.org/bots/api#setwebhook
+- https://xabaras.medium.com/setting-your-telegram-bot-webhook-the-easy-way-c7577b2d6f72
+
 #### 👩🏻‍💻 Tutorial gratuiti:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -87,9 +94,3 @@ Se vuoi rimanere aggiornata sui nostri prossimi eventi, qui trovi i nostri conta
 
 📧 Email: [hello@voxel.community](mailto:hello@voxel.community)
 
-#### Fonti utilizzate
-- https://tutorial.djangogirls.org/en/python_introduction/
-- https://vercel.com/docs/concepts/functions/supported-languages#python
-- https://www.marclittlemore.com/serverless-telegram-chatbot-vercel/
-- https://core.telegram.org/bots/api#setwebhook
-- https://xabaras.medium.com/setting-your-telegram-bot-webhook-the-easy-way-c7577b2d6f72
