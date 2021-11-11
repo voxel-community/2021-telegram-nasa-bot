@@ -60,7 +60,7 @@ vercel --prod
 
 #### 4. Verifica registrazione
 
-Puoi verificare la registrazione abbia avuto successo andando al seguente link: https://api.telegram.org/{TOKEN_TELEGRAM_BOT}/getWebhookInfo
+Puoi verificare che la registrazione ha avuto successo andando al seguente link: https://api.telegram.org/{TOKEN_TELEGRAM_BOT}/getWebhookInfo
 
 
 <kbd>![0-fatherbot-1](../assets/Lessons/10-browser-prod-bot-me.png)</kbd>
