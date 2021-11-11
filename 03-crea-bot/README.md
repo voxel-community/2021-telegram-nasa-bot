@@ -6,7 +6,7 @@
 
 ## Obiettivo
 
-Il primo compito è quello di creare un bot Telegram con cui gli utenti potranno interagire. Per farlo parleremo con il Botfather, il padre di tutti i bot. Questo è un bot speciale di Telegram per creare nuovi bot e aggiornarli. 
+Crea un bot Telegram con cui gli utenti potranno interagire. Per farlo parleremo con il Botfather, il padre di tutti i bot. Questo è un bot speciale di Telegram per creare nuovi bot e aggiornarli. 
 
 ## Steps
 
