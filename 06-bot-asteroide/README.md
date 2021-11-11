@@ -38,8 +38,8 @@ class handler(BaseHTTPRequestHandler):
     content_length = int(self.headers["Content-Length"])
     post_data = self.rfile.read(content_length).decode('utf-8')
     data = json.loads(post_data)
-    bot = Bot(token=token)
     token='TOKEN_TELEGRAM_BOT'
+    bot = Bot(token=token)
     chat_id = data['message']['chat']['id']
     bot.sendMessage(chat_id=chat_id, text="asteroide")
     self.send_response(200)
