@@ -16,7 +16,6 @@ Python è un linguaggio di programmazione che è stato pensato per essere usato 
 
 Oggi, con Python metteremo in comunicazione il bot di Telegram con i dati che ci fornisce la NASA.
 
-A multi-purpose language with a simple, and beginner-friendly syntax
 
 📹 [Ecco un breve video introduttivo](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
 
