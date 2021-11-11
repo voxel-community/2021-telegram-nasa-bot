@@ -1,8 +1,8 @@
 # 05-registrazione-webhook
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 04-colleghiamo-funzione-a-telegram](../04-colleghiamo-funzione-a-telegram)  | [06-bot-asteroide ▶︎](../06-bot-asteroide) |
 
 ## Obiettivo
 

@@ -2,7 +2,7 @@
 
 | Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
-| [◀︎ 02-crea-prima-funzione](../02-crea-prima-funzione)  | [04-colleghiamo-funzione-a-telegram ▶︎](../04-colleghiamo-funzione-a-telegram) |
+| [◀︎ 03-crea-bot](../03-crea-bot)  | [05-registrazione-webhook ▶︎](../05-registrazione-webhook) |
 ## Obiettivo
 
 Collega la tua funzione alle API di Telegram. Faremo un piccolo test andando a chiedere a Telegram le informazioni sul bot.
