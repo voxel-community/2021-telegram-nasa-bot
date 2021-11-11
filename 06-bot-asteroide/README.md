@@ -10,9 +10,7 @@ In questo capitolo vogliamo fare in modo che qualsiasi cosa scriva un utente scr
 
 ## Steps
 
-#### 1. Funzione Post
-
-Scriviamo un altra funzione, questa volta sarà una richiesta POST dove il bot risponse sempre con "asteroide"
+#### 1. Funzione Post chiama API NASA
 
 - Inserisci il seguente codice
 ``` py
