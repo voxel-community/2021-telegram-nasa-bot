@@ -59,11 +59,11 @@ vercel --prod
 #### 3. Trova il tuo bot
 - Da cellulare o web entra su Telegram e cerca il bot creato tramite username
 
-<kbd>![16-add-bot-from-telegram](../assets/Lessons/16-add-bot-from-telegram)</kbd>
+<kbd>![16-add-bot-from-telegram](../assets/Lessons/16-add-bot-from-telegram.png)</kbd>
 
 #### 4. Vai a chattare con il tuo bot
 - Manda un qualsiasi messaggio
-<kbd>![16-add-bot-from-telegram](../assets/Lessons/18-telegram-asteroide-bot)</kbd>
+<kbd>![16-add-bot-from-telegram](../assets/Lessons/18-telegram-asteroide-bot.png)</kbd>
 
 
 |    | Capitolo successivo | 
