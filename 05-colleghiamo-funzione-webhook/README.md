@@ -9,6 +9,7 @@
 Ora il gioco si scalda, finora abbiamo creato una funzione che va a comunicare direttamente con le API di Telegram. Ma come facciamo a far comunicare il bot con la nostra funzione? Un modo è quello di mandare continue richieste alle API di Telegram per vedere se qualche utente ha interagito con il bot oppure puoi registrare un WebHook per essere automaticamente avvisato una volta che le richieste siano disponibili. Quest'ultima è la soluzione migliore e più efficiente.
 
 Cos'è un webhook?
+
 In poche parole: i webhook consentono alle app di comunicare automaticamente tra loro.
 Ecco alcuni esempi:
 - MailChimp utilizza un webhook per iscrivere gli utenti del tuo sito web alla tua newsletter.
@@ -18,7 +19,7 @@ I webhook sono fondamentalmente piccoli frammenti di codice collegati a un'appli
 
 ## Steps
 
-#### 1. Registrazione del webhook
+#### 1. Creare funzione per registrare webhook
 
 Se non colleghiamo direttamente il bot alla funzione dobbiamo far sapere al webhook di Telegram dove si trova la nostra funzione e quindi dove mandare gli eventi. Dobbiamo quindi registrare l'url della nostra funzione al webhook di Telegram.
 
@@ -43,7 +44,7 @@ class handler(BaseHTTPRequestHandler):
 
 - Sostituisci `TOKEN_TELEGRAM_BOT` con il codice ricevuto prima dal Botfather
 
-<kbd>![0-fatherbot-1](../assets/Lessons/8-botme.png)</kbd>
+<kbd>![0-fatherbot-1](../assets/Lessons/11-webhook.png)</kbd>
 
 #### 2. Metti online la funzione per registrare il webhook
 
