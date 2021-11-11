@@ -87,6 +87,7 @@ Se vuoi rimanere aggiornata sui nostri prossimi eventi, qui trovi i nostri conta
 
 📧 Email: [hello@voxel.community](mailto:hello@voxel.community)
 
+#### Fonti utilizzate
 - https://tutorial.djangogirls.org/en/python_introduction/
 - https://vercel.com/docs/concepts/functions/supported-languages#python
 - https://www.marclittlemore.com/serverless-telegram-chatbot-vercel/
