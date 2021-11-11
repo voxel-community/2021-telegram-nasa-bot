@@ -45,6 +45,8 @@ vercel login
 vercel dev
 ```
 
+- Vercel ti chiede di creare il progetto, basta che clicchi invio per tutte le richieste
+
 Hai appena avviato un piccolo server sul tuo pc al seguente link `http://localhost:3000`
 
 <kbd>![0-fatherbot-1](../assets/Lessons/3-dev-vercel-command.png)</kbd>
@@ -59,6 +61,8 @@ Hai appena avviato un piccolo server sul tuo pc al seguente link `http://localho
 <kbd>![0-fatherbot-1](../assets/Lessons/4-dev-browser-hello.png)</kbd>
 
 #### 3. Metti online la funzione
+
+- Chiudi il server con i tasti `ctrl + c`
 - Per pubblicare online la funzione creata basta eseguire questo comando
 ```
 vercel --prod
