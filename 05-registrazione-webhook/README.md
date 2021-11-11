@@ -62,6 +62,6 @@ vercel --prod
 
 Puoi verificare che la registrazione ha avuto successo andando al seguente link: https://api.telegram.org/{TOKEN_TELEGRAM_BOT}/getWebhookInfo
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 04-colleghiamo-funzione-a-telegram](../04-colleghiamo-funzione-a-telegram)  | [06-bot-asteroide ▶︎](../06-bot-asteroide) |

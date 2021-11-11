@@ -25,6 +25,6 @@ Crea un bot Telegram con cui gli utenti potranno interagire. Per farlo parleremo
 <kbd>![0-fatherbot-1](../assets/Lessons/0-fatherbot-2.png)</kbd>
 
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 02-crea-prima-funzione](../02-crea-prima-funzione)  | [04-colleghiamo-funzione-a-telegram ▶︎](../04-colleghiamo-funzione-a-telegram) |

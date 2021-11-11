@@ -50,6 +50,6 @@ Poi faremo uso di:
 * Web: [https://web.telegram.org/k/](https://web.telegram.org/k/)
 
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-crea-bot ▶︎]() |
+|                                                                               | Capitolo successivo                                                                      |
+| :---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------: |
+| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-crea-prima-istruzione-python ▶︎](../01-crea-prima-istruzione-python) |

@@ -31,6 +31,6 @@ Struttura
 
 <kbd>![0-fatherbot-1](../assets/Lessons/1-py-print.png)</kbd>
 
-|    | Capitolo successivo | 
-|:-- | ------------------: |
-| [◀︎ Introduzione](https://github.com/voxel-community/2021-telegram-nasa-bot/) | [01-creazione-bot ▶︎]() |
+| Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
+| [◀︎ 00-installazione](../00-installazione)  | [02-crea-prima-funzione ▶︎](../02-crea-prima-funzione) |
