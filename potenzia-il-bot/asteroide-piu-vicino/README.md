@@ -11,24 +11,24 @@ Modificare la risposta del bot, andando a prendere i dati attuali degli asteroid
 Per ottenere i dati degli asteroidi vicini, va chiamata una diversa API.
 Modifica il file `bot.py` con il seguente codice.
 
-```
-<!-- from http.server import BaseHTTPRequestHandler
-from telegram import Bot
-import json
-import urllib.request -->
+``` py
+# from http.server import BaseHTTPRequestHandler
+# from telegram import Bot
+# import json
+# import urllib.request
 from datetime import datetime
 
-<!-- class handler(BaseHTTPRequestHandler):
-  def do_GET(self):
-    token='TOKEN_TELEGRAM_BOT'
-    url = 'https://VERCEL_URL/api/bot/'
-    bot = Bot(token=token)
-    res = bot.setWebhook(url)
-    self.send_response(200)
-    self.send_header('Content-type', 'text/plain')
-    self.end_headers()
-    self.wfile.write(str(res).encode())
-    return -->
+class handler(BaseHTTPRequestHandler):
+  # def do_GET(self):
+  #   token='TOKEN_TELEGRAM_BOT'
+  #   url = 'https://VERCEL_URL/api/bot/'
+  #   bot = Bot(token=token)
+  #   res = bot.setWebhook(url)
+  #   self.send_response(200)
+  #   self.send_header('Content-type', 'text/plain')
+  #   self.end_headers()
+  #   self.wfile.write(str(res).encode())
+  #   return
   
   def do_POST(self):
     content_length = int(self.headers["Content-Length"])
