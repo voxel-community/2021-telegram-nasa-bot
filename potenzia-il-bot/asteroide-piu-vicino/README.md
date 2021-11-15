@@ -66,3 +66,4 @@ vercel --prod
 
 ### 3. Vai a chattare con il tuo bot
 - Manda un qualsiasi messaggio al tuo bot
+<kbd>![20-telegram-nasa-bot](../../assets/Lessons/21-telegram-bot-asteroidi.jpg)</kbd>
