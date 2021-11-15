@@ -47,6 +47,15 @@ Il workshop è strutturato in X capitoli, all'interno di ognuno troverai una bre
 
 ---
 
+## Potenzia il tuo bot 🚀
+
+Una volta creato il bot, potrai potenziarlo ancora di più. Ti lasciamo qui degli esempi:
+
+1. [Ricevi informazioni su l'asteroide più vicino alla Terra](/potenzia-il-bot/asteroide-piu-vicino/README.md)
+
+
+---
+
 ## Approfondimenti
 
 👩🏻‍💻 Per ulteriori approfondimenti su Python, API e Telegram Bots ti consigliamo di visitare i seguenti siti:
