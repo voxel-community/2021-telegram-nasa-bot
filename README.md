@@ -32,7 +32,7 @@ Ad esempio, le API della NASA che userai in questo workshop ti forniscono una li
 
 ## Struttura del workshop
 
-Il workshop è strutturato in X capitoli, all'interno di ognuno troverai una breve guida su come realizzare un pezzettino del bot e un file contenente la soluzione che proponiamo noi riguardo ai capitoli precedenti. 
+Il workshop è strutturato in 7 capitoli, all'interno di ognuno troverai una breve guida su come realizzare un pezzettino del bot e un file contenente la soluzione che proponiamo noi riguardo ai capitoli precedenti. 
 
 ## Indice dei capitoli
 
